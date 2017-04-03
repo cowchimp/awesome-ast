@@ -26,6 +26,7 @@
 
 - [falafel](https://github.com/substack/node-falafel)
 - [Babel](https://github.com/babel/babel)
+  - [Awesome Babel](https://github.com/babel/awesome-babel)
   - [Babel Handbook](https://github.com/thejameskyle/babel-handbook)
   - [babel-codemod](https://github.com/square/babel-codemod)
 - [jscodeshift](https://github.com/facebook/jscodeshift)
