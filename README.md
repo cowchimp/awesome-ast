@@ -41,6 +41,7 @@
 
 - [Hiking Through the JavaScript Forest](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02)
 - [The hidden benefits of static analysis](https://www.youtube.com/watch?v=3ZqTvexCtZM)
+- [AST for Beginners](https://www.youtube.com/watch?v=CFQBHy8RCpg)
 
 ## Contribute
 
