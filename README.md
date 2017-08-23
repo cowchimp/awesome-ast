@@ -21,6 +21,9 @@
 - [estraverse](https://github.com/estools/estraverse)
 - [esquery](https://github.com/estools/esquery)
 - [node-source-walk](https://github.com/mrjoelkemp/node-source-walk)
+- [ESLint](https://eslint.org)
+  - [Awesome ESLint](https://github.com/dustinspecker/awesome-eslint)
+  - [Writing a custom ESLint rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props)
 
 ### Manipulating
 
