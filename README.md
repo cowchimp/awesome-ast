@@ -34,6 +34,7 @@
   - [babel-codemod](https://github.com/square/babel-codemod)
 - [jscodeshift](https://github.com/facebook/jscodeshift)
   - [awesome jscodeshift](https://github.com/sejoker/awesome-jscodeshift)
+  - [Codemode that conservatively converts `var` to `const` or `let`](https://github.com/cpojer/js-codemod/blob/master/transforms/no-vars.js)
 
 ### Code Generation
 
