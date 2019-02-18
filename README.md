@@ -4,7 +4,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-## Javascript
+## JavaScript
 
 ### Parsers
 
@@ -41,7 +41,11 @@
 - [escodegen](https://github.com/estools/escodegen)
 - [recast](https://github.com/benjamn/recast)
 
-#### Talks
+### Editors/IDEs
+
+- [ASTExplorer.app](https://github.com/JamieMason/astexplorer.app)
+
+### Talks
 
 - [Hiking Through the JavaScript Forest](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02)
 - [The hidden benefits of static analysis](https://www.youtube.com/watch?v=3ZqTvexCtZM)
