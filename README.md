@@ -50,6 +50,10 @@
 - [Hiking Through the JavaScript Forest](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02)
 - [The hidden benefits of static analysis](https://www.youtube.com/watch?v=3ZqTvexCtZM)
 - [AST for Beginners](https://www.youtube.com/watch?v=CFQBHy8RCpg)
+- [Harnessing The Power of Abstract Syntax Trees by Jamund Ferguson](https://www.youtube.com/watch?v=8uOXIM4giH8)
+- [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
+- [AST - The Only True Tool for Building Javascript](https://www.youtube.com/watch?v=fF_jZ7ErwUY)
+
 
 ## Contribute
 
