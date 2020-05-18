@@ -61,7 +61,7 @@
 - [Code Transformation and Linting Workshop](https://slides.com/kentcdodds/asts-workshop#/)
 - [Hidden Gems of TypeScript Compiler](https://slides.com/vogloblinsky/hidden-gems-of-typescript-compiler#/)
 - [What the AST](https://speakerdeck.com/dkundel/sinnerschrader-tech-session-18-what-the-ast)
-- [AST: Awesome Super Tool][https://speakerdeck.com/leoasis/ast-awesome-super-tool)
+- [AST: Awesome Super Tool](https://speakerdeck.com/leoasis/ast-awesome-super-tool)
 
 ## Contribute
 
