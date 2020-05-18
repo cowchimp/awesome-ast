@@ -47,13 +47,13 @@
 
 ### Talks
 
-- [Hiking Through the JavaScript Forest](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02) [Slides](https://speakerdeck.com/xjamundx/hiking-through-the-javascript-forest)
+- [Hiking Through the JavaScript Forest](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02) ([Slides](https://speakerdeck.com/xjamundx/hiking-through-the-javascript-forest))
 - [The hidden benefits of static analysis](https://www.youtube.com/watch?v=3ZqTvexCtZM)
 - [AST for Beginners](https://www.youtube.com/watch?v=CFQBHy8RCpg)
-- [Harnessing The Power of Abstract Syntax Trees by Jamund Ferguson](https://www.youtube.com/watch?v=8uOXIM4giH8)[Slides](https://speakerdeck.com/xjamundx/harnessing-the-power-of-abstract-syntax-trees)
-- [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=2W9tUnALrLg) [Slides](https://speakerdeck.com/cowchimp/master-the-art-of-the-ast-full-stack-fest-2017)
+- [Harnessing The Power of Abstract Syntax Trees by Jamund Ferguson](https://www.youtube.com/watch?v=8uOXIM4giH8) ([Slides](https://speakerdeck.com/xjamundx/harnessing-the-power-of-abstract-syntax-trees))
+- [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=2W9tUnALrLg) ([Slides](https://speakerdeck.com/cowchimp/master-the-art-of-the-ast-full-stack-fest-2017))
 - [AST - The Only True Tool for Building Javascript](https://www.youtube.com/watch?v=fF_jZ7ErwUY)
-
+- [Evolving Complex Systems Incrementally | JSConf EU 2015](https://www.youtube.com/watch?v=d0pOgY8__JM)
 ### Slides
 - [Writing custom Babel and ESLint Plugins](https://slides.com/kentcdodds/a-beginners-guide-to-asts#/)
 - [Fantastic ASTs and Where To Find Them](https://slides.com/craigspence/fantastic-asts-and-where-to-find-them#/)
@@ -61,7 +61,7 @@
 - [Code Transformation and Linting Workshop](https://slides.com/kentcdodds/asts-workshop#/)
 - [Hidden Gems of TypeScript Compiler](https://slides.com/vogloblinsky/hidden-gems-of-typescript-compiler#/)
 - [What the AST](https://speakerdeck.com/dkundel/sinnerschrader-tech-session-18-what-the-ast)
-- [AST: Awesome Super Tool][https://speakerdeck.com/leoasis/ast-awesome-super-tool)
+- [AST: Awesome Super Tool](https://speakerdeck.com/leoasis/ast-awesome-super-tool)
 
 ## Contribute
 
