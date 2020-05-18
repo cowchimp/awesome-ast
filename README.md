@@ -53,7 +53,7 @@
 - [Harnessing The Power of Abstract Syntax Trees by Jamund Ferguson](https://www.youtube.com/watch?v=8uOXIM4giH8) ([Slides](https://speakerdeck.com/xjamundx/harnessing-the-power-of-abstract-syntax-trees))
 - [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=2W9tUnALrLg) ([Slides](https://speakerdeck.com/cowchimp/master-the-art-of-the-ast-full-stack-fest-2017))
 - [AST - The Only True Tool for Building Javascript](https://www.youtube.com/watch?v=fF_jZ7ErwUY)
-
+- [Evolving Complex Systems Incrementally | JSConf EU 2015](https://www.youtube.com/watch?v=d0pOgY8__JM)
 ### Slides
 - [Writing custom Babel and ESLint Plugins](https://slides.com/kentcdodds/a-beginners-guide-to-asts#/)
 - [Fantastic ASTs and Where To Find Them](https://slides.com/craigspence/fantastic-asts-and-where-to-find-them#/)
